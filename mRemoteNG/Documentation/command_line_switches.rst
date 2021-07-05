@@ -8,6 +8,7 @@ The following commandlline switches are supported by mRemoteNG:
 ``/c: PathToConnectionsFile``
 
  Loads the connections file from the given path. This path can be a:
+ 
  - full file path
  - path relative to the current directory
  - path relative to the mRemoteNG application directory
